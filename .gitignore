@@ -1,0 +1,5 @@
+/savedModels
+database.csv
+__pycache__
+Random_SMOTE_Forest.joblib
+scaler.joblib
